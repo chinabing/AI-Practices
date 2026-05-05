@@ -16,6 +16,9 @@
 | -- | -- |:--:|
 | 目标检测SOTA算法Co-DETR|<img src="imgs/目标检测SOTA算法Co-DETR.jpg" width="170px"/> |  [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1SfUpYrEGk)](https://www.bilibili.com/video/BV1SfUpYrEGk)<br />  |
 | 从DETR到Co-DETR、RT-DETR、D-FINE、DEIM（一）|<img src="imgs/从DETR到Co-DETR、RT-DETR、D-FINE、DEIM（一）.jpg" width="170px"/> |  [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV19K7Wz7EPc)](https://www.bilibili.com/video/BV19K7Wz7EPc)<br />  |
+| 从DETR到Co-DETR、RT-DETR、D-FINE、DEIM（二）|<img src="imgs/从DETR到Co-DETR、RT-DETR、D-FINE、DEIM（二）.jpg" width="170px"/> |  [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1es7pzjEe1)](https://www.bilibili.com/video/BV1es7pzjEe1)<br />  |
+| 从DETR到Co-DETR、RT-DETR、D-FINE、DEIM（三）|<img src="imgs/从DETR到Co-DETR、RT-DETR、D-FINE、DEIM（三）.jpg" width="170px"/> |  [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1ab7pzCE66)](https://www.bilibili.com/video/BV1ab7pzCE66)<br />  |
+| 从DETR到Co-DETR、RT-DETR、D-FINE、DEIM（四）|<img src="imgs/从DETR到Co-DETR、RT-DETR、D-FINE、DEIM（四）.jpg" width="170px"/> |  [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1LLTRzjE1c)](https://www.bilibili.com/video/BV1LLTRzjE1c)<br />  |
 
 ## 3. 语音技术
 | 标题 | 封面 | 视频（播放数） |
